@@ -1,0 +1,24 @@
+{
+  "name": "myfitnesspal-integration",
+  "version": "0.1.0",
+  "description": "Google Dialog app that interacts with MyFitnessPal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddoxnelson/myfitnesspal-integration.git"
+  },
+  "keywords": [
+    "myfitnesspal",
+    "google",
+    "dialog"
+  ],
+  "author": "Matt Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maddoxnelson/myfitnesspal-integration/issues"
+  },
+  "homepage": "https://github.com/maddoxnelson/myfitnesspal-integration#readme"
+}
